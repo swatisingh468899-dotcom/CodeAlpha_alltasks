@@ -10,7 +10,7 @@ class Student {
     }
 }
 
-class Main {
+public class Main {
     public static void main(String[] args) {
 
         ArrayList<Student> students = new ArrayList<>();
